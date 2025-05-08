@@ -39,14 +39,6 @@ Correo:     demo@usuario.com
 Contraseña: 123456
 ```
 
----
-
-## 🚀 Demo en línea
-
-👉 [Demo en Netlify](https://fitnessappdemo.netlify.app/login)
-
----
-
 ## ⚙️ Instalación local
 
 ### 1. Clona el frontend
