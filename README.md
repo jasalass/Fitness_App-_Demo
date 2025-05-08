@@ -1,6 +1,13 @@
 # 🏋️ Fitness App - Demo
 
 **FitnessApp** es una aplicación web construida con **React + Supabase** que permite a los usuarios planificar, ejecutar y llevar un historial de sus entrenamientos semanales.
+---
+
+## 🚀 Demo en línea
+
+👉 [Demo en Netlify](https://fitnessappdemo.netlify.app/login)
+
+---
 
 ## 🎯 Funcionalidades principales
 
