@@ -36,8 +36,7 @@ Contraseña: 123456
 
 ## 🚀 Demo en línea
 
-👉 *(Agrega tu link de Netlify o Vercel aquí una vez desplegado)*  
-`https://fitnessapp-demo.vercel.app` *(ejemplo)*
+👉 [Demo en Netlify](https://fitnessappdemo.netlify.app/login)
 
 ---
 
@@ -47,7 +46,7 @@ Contraseña: 123456
 
 ```bash
 git clone https://github.com/jasalass/Fitness_Front.git
-cd Fitness_Front
+cd fitness-app
 npm install
 ```
 
@@ -73,7 +72,7 @@ npm run dev
 1. Crea un nuevo proyecto en [https://supabase.com](https://supabase.com)
 2. Ingresa al SQL Editor
 3. Copia y ejecuta el contenido de este archivo:
-   👉 [script.sql en Fitness_backend](https://github.com/jasalass/Fitness_backend/blob/main/init.sql)
+   👉 [esquema.sql en Fitness_backend](https://github.com/jasalass/Fitness_backend/blob/main/esquema.sql)
 
 Esto creará las tablas, políticas RLS y estructura necesaria para que la app funcione correctamente.
 
@@ -85,7 +84,7 @@ Esto creará las tablas, políticas RLS y estructura necesaria para que la app f
 - 🟩 Supabase (PostgreSQL + Auth)
 - 🎨 CSS vanilla + transiciones suaves
 - 📡 REST API vía Supabase
-- ☁️ Deploy en Vercel o Netlify
+- ☁️ Deploy en Netlify
 
 ---
 
