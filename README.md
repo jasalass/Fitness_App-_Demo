@@ -79,7 +79,7 @@ npm run dev
 1. Crea un nuevo proyecto en [https://supabase.com](https://supabase.com)
 2. Ingresa al SQL Editor
 3. Copia y ejecuta el contenido de este archivo:
-   👉 [esquema.sql en Fitness_backend](https://github.com/jasalass/Fitness_backend/blob/main/esquema.sql)
+   👉 [esquema.sql en Fitness_backend](https://github.com/jasalass/Fitness_backend/blob/main/database/esquema.sql)
 
 Esto creará las tablas, políticas RLS y estructura necesaria para que la app funcione correctamente.
 
